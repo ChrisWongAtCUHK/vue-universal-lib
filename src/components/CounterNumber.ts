@@ -1,4 +1,4 @@
-import { ref, defineComponent, h } from "vue";
+import { ref, defineComponent, h } from "vue-demi";
 
 export const CounterNumber = defineComponent({
   name: "Awesome",
